@@ -1,0 +1,63 @@
+{
+    "user": [{
+        "id": 1,
+        "name": "Sisile",
+        "address": "92 Killdeer Road",
+        "email": "sfolbig0@weather.com",
+        "country": "Kyrgyzstan"
+      }, {
+        "id": 2,
+        "name": "Krystyna",
+        "address": "62 Fair Oaks Street",
+        "email": "kcahani1@springer.com",
+        "country": "Russia"
+      }, {
+        "id": 3,
+        "name": "Tybalt",
+        "address": "408 Nevada Court",
+        "email": "tlehenmann2@imgur.com",
+        "country": "Philippines"
+      }, {
+        "id": 4,
+        "name": "Claudette",
+        "address": "12790 Bartillon Pass",
+        "email": "cprozescky3@paypal.com",
+        "country": "Indonesia"
+      }, {
+        "id": 5,
+        "name": "Basil",
+        "address": "30 Magdeline Avenue",
+        "email": "bsobey4@ibm.com",
+        "country": "Tunisia"
+      }, {
+        "id": 6,
+        "name": "Filippa",
+        "address": "2 Melrose Hill",
+        "email": "fburnham5@fema.gov",
+        "country": "Pakistan"
+      }, {
+        "id": 7,
+        "name": "Helaina",
+        "address": "868 Hagan Drive",
+        "email": "hrutty6@clickbank.net",
+        "country": "Syria"
+      }, {
+        "id": 8,
+        "name": "Aloisia",
+        "address": "55715 New Castle Plaza",
+        "email": "aandrosik7@moonfruit.com",
+        "country": "Philippines"
+      }, {
+        "id": 9,
+        "name": "Maye",
+        "address": "0 Prairieview Crossing",
+        "email": "maland8@nih.gov",
+        "country": "Nicaragua"
+      }, {
+        "id": 10,
+        "name": "Dennison",
+        "address": "996 Raven Way",
+        "email": "ddurman9@simplemachines.org",
+        "country": "Kazakhstan"
+      }]
+}
